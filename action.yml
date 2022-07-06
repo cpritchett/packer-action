@@ -1,5 +1,5 @@
 name: 'Build images with Packer'
-author: 'Santi Saez <xanti.saez@gmail.com>'
+author: 'Chad Pritchett <chad.pritchett@rackspace.com>'
 description: 'Build virtual-machine images using Packer'
 
 inputs:
